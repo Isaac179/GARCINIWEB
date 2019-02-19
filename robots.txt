@@ -1,0 +1,14 @@
+#Archivo robots para http://www.publicidadtoluca.com/
+#Creado por RefillCreativo.com.mx
+#2015
+
+User-agent: *
+Disallow:/css*
+Disallow:/js*
+Disallow:/style*
+Disallow:/php*
+Disallow:/fonts*
+
+Sitemap: http://www.publicidadtoluca.com/sitemap.xml
+
+
