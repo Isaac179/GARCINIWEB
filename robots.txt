@@ -1,4 +1,4 @@
-#Archivo robots para http://www.publicidadtoluca.com/
+#Archivo robots para http://www.garcini.com.mx/
 #Creado por RefillCreativo.com.mx
 #2015
 
