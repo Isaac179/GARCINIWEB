@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "image": "http://www.garcini.com/images/Pic.png",
+  "@id": "http://www.garcini.com/",
+  "name": "Marketing y advertising  en Toluca y Metepec",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Leona Vicario 13, Col. La Purísima, Edo Mex.",
+    "addressLocality": "Metepec",
+    "addressRegion": "MEX",
+    "postalCode": "50075",
+    "addressCountry": "MX"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 19.271159,
+    "longitude": -99.628537,
+  },
+  "url": "http://www.garcini.com",
+  "telephone": "7225412255",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Friday"
+      ],
+      "opens": "10:00",
+      "closes": "19:30"
+    }
+  ]
+}
+</script>
